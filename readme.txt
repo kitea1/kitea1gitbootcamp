@@ -1,5 +1,5 @@
 こんにちは、SourceTree
 
-Branchのテスト
+BranchのTest
 
 for Taiwan Branch
